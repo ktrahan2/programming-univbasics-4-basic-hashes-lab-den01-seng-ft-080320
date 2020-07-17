@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  dogs = {:breed, "german shepherd"}
+  dogs = {:breed, german shepherd}
 end
 
 def pioneer
